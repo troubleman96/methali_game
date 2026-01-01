@@ -28,7 +28,7 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
           onClick={onStart}
           className="w-full py-4 sm:py-5 bg-emerald-700 hover:bg-emerald-800 active:bg-emerald-900 text-white rounded-xl sm:rounded-2xl font-bold text-lg sm:text-xl transition-all shadow-lg flex items-center justify-center gap-2 mb-6 sm:mb-8 touch-manipulation"
         >
-          Anza Safari <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
+          Anza Mchezo <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
         </button>
 
         {leaderboard.length > 0 && (

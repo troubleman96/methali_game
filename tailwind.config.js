@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
+        sans: ['Poppins', 'system-ui', 'sans-serif'],
+        serif: ['Merriweather', 'Georgia', 'serif'],
       },
     },
   },

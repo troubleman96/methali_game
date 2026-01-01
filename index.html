@@ -88,26 +88,36 @@
         pointer-events: none;
       }
       
+      .loader-container {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
       .loader-icon {
-        width: 96px;
-        height: 96px;
-        margin-bottom: 24px;
+        width: 128px;
+        height: 128px;
         animation: bounce 1s ease-in-out infinite;
+        z-index: 2;
       }
       
       .loader-spinner {
-        width: 120px;
-        height: 120px;
-        border: 6px solid #d1d5db;
+        width: 180px;
+        height: 180px;
+        border: 8px solid #d1d5db;
         border-top-color: #047857;
         border-right-color: #059669;
         border-radius: 50%;
         animation: spin 1s linear infinite;
         position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
       }
       
       .loader-text {
-        margin-top: 140px;
+        margin-top: 120px;
         font-family: 'Poppins', sans-serif;
         font-size: 18px;
         font-weight: 600;
@@ -116,7 +126,7 @@
       }
       
       @keyframes spin {
-        to { transform: rotate(360deg); }
+        to { transform: translate(-50%, -50%) rotate(360deg); }
       }
       
       @keyframes bounce {
@@ -133,8 +143,10 @@
   <body>
     <!-- Loading Screen -->
     <div id="app-loader">
-      <div class="loader-spinner"></div>
-      <img src="/vitendawili_na_methali_favicon/favicon-96x96.png" alt="Loading..." class="loader-icon" />
+      <div class="loader-container">
+        <div class="loader-spinner"></div>
+        <img src="/vitendawili_na_methali_favicon/favicon-96x96.png" alt="Loading..." class="loader-icon" />
+      </div>
       <div class="loader-text">Inapakia...</div>
     </div>
     

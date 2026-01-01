@@ -1,6 +1,6 @@
 // Presentation Layer - Start Screen Component
 
-import { Trophy, BookOpen, ChevronRight } from 'lucide-react';
+import { Trophy, ChevronRight } from 'lucide-react';
 import { LeaderboardEntry } from '@domain/entities/Score';
 
 interface StartScreenProps {
@@ -13,8 +13,12 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
     <div className="min-h-screen bg-gradient-to-br from-emerald-50 to-stone-100 flex items-center justify-center p-3 sm:p-4 md:p-6 font-sans">
       <div className="max-w-md w-full bg-white rounded-2xl sm:rounded-3xl shadow-2xl p-6 sm:p-8 border-t-8 border-emerald-600">
         <div className="text-center mb-6 sm:mb-8">
-          <div className="inline-block p-3 sm:p-4 bg-emerald-50 rounded-full mb-3 sm:mb-4">
-            <BookOpen className="w-10 h-10 sm:w-12 sm:h-12 text-emerald-700" />
+          <div className="inline-block mb-3 sm:mb-4">
+            <img 
+              src="/vitendawili_na_methali_favicon/favicon-96x96.png" 
+              alt="Methali Game Logo" 
+              className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28"
+            />
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-2 tracking-tight">
             Mizungu & Methali

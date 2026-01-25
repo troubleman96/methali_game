@@ -50,12 +50,6 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
               className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 animate-bounce-slow"
             />
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-2 tracking-tight">
-            Mizungu & Methali
-          </h1>
-          <p className="text-emerald-700 italic text-base sm:text-lg font-medium font-serif px-2">
-            "Busara ni akiba ya mzee."
-          </p>
         </div>
 
         {!showCategories ? (

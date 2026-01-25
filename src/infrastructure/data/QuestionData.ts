@@ -25,11 +25,11 @@ const allMethaliAnswers = methaliData.map(m => {
 const processedMethali: Question[] = methaliData.map(m => {
   const parts = m.text.split(/,\s*/);
   const answer = parts.length > 1 ? parts.pop()! : m.text;
-  const riddleText = parts.length > 0 ? parts.join(', ') + '...' : 'Kamilisha methali hii';
+  const riddleText = parts.length > 0 ? parts.join(', ') + '...' : 'Kamilisha methali hii:';
   return {
     id: `m-${m.id}`,
     type: 'Methali' as QuestionType,
-    riddle: `Kamilisha: <b>"${riddleText}"</b>`,
+    riddle: `Kamilisha methali hii: <br><b>"${riddleText}"</b>`,
     answer,
     options: getOptions(answer, allMethaliAnswers),
     hint: 'Sikiliza hekima ya wahenga.'

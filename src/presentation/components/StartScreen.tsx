@@ -50,23 +50,19 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
       <div className="max-w-md w-full bg-white rounded-3xl shadow-2xl p-6 sm:p-8 border-t-8 border-emerald-600 transition-all duration-500">
 
         <div className="text-center mb-6 sm:mb-8">
-          <div className="inline-block mb-3 sm:mb-4">
+          <div className="inline-block mb-2">
             <img
               src="/vitendawili_na_methali_favicon/favicon-96x96.png"
               alt="Methali Game Logo"
-              className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 animate-bounce-slow"
+              className={`w-20 h-20 sm:w-24 sm:h-24 animate-bounce-slow ${showCategories ? 'scale-75 mb-0' : 'mb-2'}`}
             />
           </div>
-          {!showCategories && (
-            <>
-              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-2 tracking-tight">
-                Mizungu & Methali
-              </h1>
-              <p className="text-emerald-700 italic text-base sm:text-lg font-medium font-serif px-2">
-                "Busara ni akiba ya mzee."
-              </p>
-            </>
-          )}
+          <h1 className={`${showCategories ? 'text-xl sm:text-2xl' : 'text-3xl sm:text-4xl md:text-5xl'} font-bold text-gray-900 mb-1 tracking-tight transition-all duration-300`}>
+            Mizungu & Methali
+          </h1>
+          <p className={`text-emerald-700 italic ${showCategories ? 'text-xs sm:text-sm' : 'text-base sm:text-lg'} font-medium font-serif px-2 transition-all duration-300`}>
+            "Busara ni akiba ya mzee."
+          </p>
         </div>
 
         {!showCategories ? (

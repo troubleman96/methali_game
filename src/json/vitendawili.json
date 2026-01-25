@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "kitendawili": "Bibi hatui mzigo wake",
+        "jibu": "kobe/ konokono"
+    },
+    {
+        "id": 2,
+        "kitendawili": "Askari wangu ni mpole lakini adui wanamhara",
+        "jibu": "paka"
+    },
+    {
+        "id": 3,
+        "kitendawili": "Mjomba hataki tuonane",
+        "jibu": "kisogo"
+    },
+    {
+        "id": 4,
+        "kitendawili": "Kila mtu humwabudu apitapo",
+        "jibu": "mlango"
+    },
+    {
+        "id": 5,
+        "kitendawili": "Watoto wa binadamu wakiondoka hawarudi",
+        "jibu": "majani"
+    },
+    {
+        "id": 6,
+        "kitendawili": "Priii mpaka maka",
+        "jibu": "utelezi"
+    },
+    {
+        "id": 7,
+        "kitendawili": "Nyumba yangu ndogo lakini ina wapangaji wengi",
+        "jibu": "kiberiti"
+    },
+    {
+        "id": 8,
+        "kitendawili": "Wana wa mfalme ni wepesi sana kujificha",
+        "jibu": "macho"
+    },
+    {
+        "id": 9,
+        "kitendawili": "Ukumbuu wa babu ni mrefu",
+        "jibu": "barabara/ njia"
+    },
+    {
+        "id": 10,
+        "kitendawili": "Babu amelala ndani ndevu zake zipo nje",
+        "jibu": "mahindi"
+    },
+    {
+        "id": 11,
+        "kitendawili": "Hausimiki hausimami",
+        "jibu": "mkufu"
+    },
+    {
+        "id": 12,
+        "kitendawili": "Kaa hapa na mimi nikae pale tumfinye mchawi",
+        "jibu": "kula ugali"
+    },
+    {
+        "id": 13,
+        "kitendawili": "Kiota chanke kimezungushiwa boma la nyasi",
+        "jibu": "macho"
+    },
+    {
+        "id": 14,
+        "kitendawili": "Napigwa faini kosa silijui",
+        "jibu": "kujikwaa"
+    },
+    {
+        "id": 15,
+        "kitendawili": "Ajihami bila silaha",
+        "jibu": "kinyonga"
+    },
+    {
+        "id": 16,
+        "kitendawili": "Akibeba watoto wake hawezi kuwashusha mahindi.",
+        "jibu": "mahindi"
+    },
+    {
+        "id": 17,
+        "kitendawili": "Nina chemchemi isiyo kauka",
+        "jibu": "ulimi na mate"
+    },
+    {
+        "id": 18,
+        "kitendawili": "Zulia la Mungu",
+        "jibu": "ardhi."
+    },
+    {
+        "id": 19,
+        "kitendawili": "Viti vyote nimevikalia isipokuwa hicho",
+        "jibu": "moto"
+    },
+    {
+        "id": 20,
+        "kitendawili": "Popoo mbili zavuka mto",
+        "jibu": "macho"
+    },
+    {
+        "id": 21,
+        "kitendawili": "Kila niendapo hunifuata",
+        "jibu": "kivuli"
+    },
+    {
+        "id": 22,
+        "kitendawili": "Kamba yangu ndefu lakini haiwezi kufunga mzigo wa kuni",
+        "jibu": "barabara / njia"
+    },
+    {
+        "id": 23,
+        "kitendawili": "Bomu la machozi baridi",
+        "jibu": "moshi"
+    },
+    {
+        "id": 24,
+        "kitendawili": "Nyumba yangu ina mlango juu",
+        "jibu": "chupa"
+    },
+    {
+        "id": 25,
+        "kitendawili": "Kilemba chake hazimishi",
+        "jibu": "jogoo"
+    },
+    {
+        "id": 26,
+        "kitendawili": "Kuku wangu hutagia miibani",
+        "jibu": "nanasi"
+    },
+    {
+        "id": 27,
+        "kitendawili": "Nyumba yangu haina mlango",
+        "jibu": "yai"
+    },
+    {
+        "id": 28,
+        "kitendawili": "Utupacho wewe kwake ni dhahabu",
+        "jibu": "nzi"
+    },
+    {
+        "id": 29,
+        "kitendawili": "Mama hachoki kunibeba",
+        "jibu": "kitanda"
+    },
+    {
+        "id": 30,
+        "kitendawili": "Shamba langu kubwa lakini mazao yake ni kidogo",
+        "jibu": "nywele"
+    },
+    {
+        "id": 31,
+        "kitendawili": "Jinamizi laniita lakini silioni",
+        "jibu": "mwangwi"
+    },
+    {
+        "id": 32,
+        "kitendawili": "Watoto wa tajiri wa nguo hulala na kutembea uchi",
+        "jibu": "maboga"
+    },
+    {
+        "id": 33,
+        "kitendawili": "Ukoo wetu hauishiwi na safari",
+        "jibu": "siafu"
+    },
+    {
+        "id": 34,
+        "kitendawili": "Kafa huku akining’inia",
+        "jibu": "buibui"
+    },
+    {
+        "id": 35,
+        "kitendawili": "Mwanangu hunipa kitu kitamu lakini akichokozwa hutawanya watu",
+        "jibu": "nyuki"
+    },
+    {
+        "id": 36,
+        "kitendawili": "Ana miguu ya msumeno",
+        "jibu": "panzi"
+    },
+    {
+        "id": 37,
+        "kitendawili": "Akijikunja anakuwa herufi O akijinyoosha anakua namba moja",
+        "jibu": "jongoo"
+    },
+    {
+        "id": 38,
+        "kitendawili": "Ana mdomo lakin anang’ata kwa mkia",
+        "jibu": "nge"
+    },
+    {
+        "id": 39,
+        "kitendawili": "Anajua kuchora ingawa hajui anacho kichora",
+        "jibu": "konokono"
+    },
+    {
+        "id": 40,
+        "kitendawili": "Rafiki yangu ni mharibifu lakini namhitaji",
+        "jibu": "moto"
+    },
+    {
+        "id": 41,
+        "kitendawili": "Kila ukiwakuta wamejitayarisha kupigana",
+        "jibu": "katani/ mkonge"
+    },
+    {
+        "id": 42,
+        "kitendawili": "Huku na huku tamu, katikati chungu",
+        "jibu": "jua"
+    },
+    {
+        "id": 43,
+        "kitendawili": "Kulia kwake ni kicheko kwetu",
+        "jibu": "mvua"
+    },
+    {
+        "id": 44,
+        "kitendawili": "Teketeke huzaa gumu gumu, gumu gumu huzaa teke teke",
+        "jibu": "mahindi"
+    },
+    {
+        "id": 45,
+        "kitendawili": "Ubwabwa wa mwana mtamu",
+        "jibu": "usingizi"
+    },
+    {
+        "id": 46,
+        "kitendawili": "Wakikua mama yao huwatupa mbali kwa kishindo",
+        "jibu": "mbarika/ nyonyo"
+    },
+    {
+        "id": 47,
+        "kitendawili": "Bwana afya wa pori",
+        "jibu": "fisi"
+    },
+    {
+        "id": 48,
+        "kitendawili": "Amefika kabla mjumbe hajarudi",
+        "jibu": "nazi"
+    },
+    {
+        "id": 49,
+        "kitendawili": "Kondoo wetu ana nyama nje na ngozi ndani",
+        "jibu": "firigisi"
+    },
+    {
+        "id": 50,
+        "kitendawili": "Hana staha wala adabu kwa watu",
+        "jibu": "utelezi"
+    },
+    {
+        "id": 51,
+        "kitendawili": "Mbwa mwitu wamemzunguka kumlinda",
+        "jibu": "ulmi na meno"
+    },
+    {
+        "id": 52,
+        "kitendawili": "Ajenga ingawa hana mikono",
+        "jibu": "mchwa"
+    },
+    {
+        "id": 53,
+        "kitendawili": "Nina saa ambayo haijawahi kusimama tangu ilipo tiwa ufunguo",
+        "jibu": "nguo"
+    },
+    {
+        "id": 54,
+        "kitendawili": "Mti wangu una matawi saba, manne mabichi, mawili makavu na moja lina kichaa",
+        "jibu": "ng’ombe"
+    },
+    {
+        "id": 55,
+        "kitendawili": "Adui tumemzunguka lakin hatumuwezi",
+        "jibu": "moto"
+    },
+    {
+        "id": 56,
+        "kitendawili": "Nikikutana na adui yangu nnanyong’onyea",
+        "jibu": "ugonjwa"
+    },
+    {
+        "id": 57,
+        "kitendawili": "Huuawa kwa uzazi wake",
+        "jibu": "kinyonga"
+    },
+    {
+        "id": 58,
+        "kitendawili": "Kipara cha babu kinafuka moshi",
+        "jibu": "ugali"
+    },
+    {
+        "id": 59,
+        "kitendawili": "Mzazi ana miguu lakin mzaliwa hana",
+        "jibu": "kuku na yai"
+    },
+    {
+        "id": 60,
+        "kitendawili": "Huku ng’o na huko ng’o",
+        "jibu": "giza"
+    },
+    {
+        "id": 61,
+        "kitendawili": "Nina watoto watatu, nikimuondoa mmoja waliobaki hawawezi kufanya kazi",
+        "jibu": "mafiga"
+    },
+    {
+        "id": 62,
+        "kitendawili": "Cheupe kimevunjika imetokea manjano",
+        "jibu": "yai"
+    },
+    {
+        "id": 63,
+        "kitendawili": "Juu mboga, katikati kuni, chini ugali",
+        "jibu": "mhogo"
+    },
+    {
+        "id": 64,
+        "kitendawili": "Babu amevaa koti la chuma",
+        "jibu": "kobe"
+    },
+    {
+        "id": 65,
+        "kitendawili": "Nyundo zangu zimetengenezwa kwa mfupa",
+        "jibu": "meno"
+    },
+    {
+        "id": 66,
+        "kitendawili": "Nyumba yangu ina nguzo moja",
+        "jibu": "uyoga"
+    },
+    {
+        "id": 67,
+        "kitendawili": "Ninacho lakini sikioni",
+        "jibu": "kisogo"
+    },
+    {
+        "id": 68,
+        "kitendawili": "Gari langu halitumii mafuta",
+        "jibu": "miguu"
+    },
+    {
+        "id": 69,
+        "kitendawili": "Anatengeneza mchuzi mtamu lakini hapiki jikoni",
+        "jibu": "kivuli"
+    },
+    {
+        "id": 70,
+        "kitendawili": "Hesabu yake haina faida",
+        "jibu": "nywele/mchanga"
+    },
+    {
+        "id": 71,
+        "kitendawili": "Fuu funika, fuu funua",
+        "jibu": "kutembea"
+    },
+    {
+        "id": 72,
+        "kitendawili": "Hapotei hata akiwa gizani",
+        "jibu": "tonge liendalo mdomoni"
+    },
+    {
+        "id": 73,
+        "kitendawili": "Namkata mwanangu nalia mwenyewe",
+        "jibu": "kitunguu"
+    },
+    {
+        "id": 74,
+        "kitendawili": "Nikimuita huniita, nikienda simkuti",
+        "jibu": "mwangwi"
+    },
+    {
+        "id": 75,
+        "kitendawili": "Mzungu anachungulia dirishani",
+        "jibu": "kamasi"
+    },
+    {
+        "id": 76,
+        "kitendawili": "Mzungu katoka ulaya na mkono kiunoni",
+        "jibu": "kikombe"
+    },
+    {
+        "id": 77,
+        "kitendawili": "Tajiri wa rangi",
+        "jibu": "kinyonga"
+    },
+    {
+        "id": 78,
+        "kitendawili": "Amejiingiza jela mwenyewe",
+        "jibu": "kuku akiatamia."
+    },
+    {
+        "id": 79,
+        "kitendawili": "Nikitembea, nikirudi hurudi pia",
+        "jibu": "kivuli"
+    },
+    {
+        "id": 80,
+        "kitendawili": "Maskini huyu hata amechangiwa vipi haridhiki",
+        "jibu": "tumbo."
+    },
+    {
+        "id": 81,
+        "kitendawili": "Mazishi yake ni furaha kwa watu",
+        "jibu": "mbegu"
+    },
+    {
+        "id": 82,
+        "kitendawili": "Safari yake huirudiarudia haimalizi",
+        "jibu": "jua"
+    },
+    {
+        "id": 83,
+        "kitendawili": "Waliobeba maiti hawaongei lakini yeye anaongea",
+        "jibu": "chungu kinapochemka"
+    },
+    {
+        "id": 84,
+        "kitendawili": "Mtoto wangu hatambuliki hata nikimkuta na wenzake",
+        "jibu": "fedha"
+    },
+    {
+        "id": 85,
+        "kitendawili": "Ninapompiga mwanangu watu hucheza",
+        "jibu": "ngoma"
+    },
+    {
+        "id": 86,
+        "kitendawili": "Ukisogea naye husogea, ukisimama naye husimama,",
+        "jibu": "kivuli"
+    },
+    {
+        "id": 87,
+        "kitendawili": "Kila mtu atapita mlango huu",
+        "jibu": "kifo"
+    },
+    {
+        "id": 88,
+        "kitendawili": "Ni jeuri sana lakini huogopa jua",
+        "jibu": "utelezi"
+    },
+    {
+        "id": 89,
+        "kitendawili": "Mwanangu analia mwituni",
+        "jibu": "shoka"
+    },
+    {
+        "id": 90,
+        "kitendawili": "Mwanangu anasemea pangoni",
+        "jibu": "ulimi"
+    },
+    {
+        "id": 91,
+        "kitendawili": "Akimchukua hamrudishi",
+        "jibu": "kaburi (kifo)."
+    },
+    {
+        "id": 92,
+        "kitendawili": "Tunakwenda wote tunarudi wote lakinihatuongei",
+        "jibu": "kivuli"
+    }
+]

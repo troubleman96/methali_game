@@ -1,7 +1,7 @@
 // Infrastructure Layer - In-Memory Question Repository Implementation
 
 import { IQuestionRepository } from '@domain/repositories/IQuestionRepository';
-import { Question } from '@domain/entities/Question';
+import { Question, QuestionType } from '@domain/entities/Question';
 import { QUESTION_DATA } from '../data/QuestionData';
 
 export class InMemoryQuestionRepository implements IQuestionRepository {
@@ -11,8 +11,12 @@ export class InMemoryQuestionRepository implements IQuestionRepository {
     return [...this.questions];
   }
 
-  async getRandomQuestions(count: number): Promise<Question[]> {
-    const shuffled = this.shuffleArray([...this.questions]);
+  async getRandomQuestions(count: number, type?: QuestionType): Promise<Question[]> {
+    let filtered = [...this.questions];
+    if (type) {
+      filtered = filtered.filter(q => q.type === type);
+    }
+    const shuffled = this.shuffleArray(filtered);
     return shuffled.slice(0, Math.min(count, shuffled.length));
   }
 

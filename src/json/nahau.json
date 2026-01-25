@@ -1,0 +1,1112 @@
+[
+    {
+        "id": 1,
+        "nahau": "Aga dunia",
+        "maana": "fariki",
+        "category": "A"
+    },
+    {
+        "id": 2,
+        "nahau": "Akali ya vitu",
+        "maana": "vitu vichache",
+        "category": "A"
+    },
+    {
+        "id": 3,
+        "nahau": "Akina baba kabwela",
+        "maana": "watu wa kawaida",
+        "category": "A"
+    },
+    {
+        "id": 4,
+        "nahau": "Akina pangu pakavu tia mchuzi",
+        "maana": "wafitini",
+        "category": "A"
+    },
+    {
+        "id": 5,
+        "nahau": "Alikaa eda",
+        "maana": "alitimiza muda wa kumlilia mumewe",
+        "category": "A"
+    },
+    {
+        "id": 6,
+        "nahau": "Ambulia patupu",
+        "maana": "bila kupata kitu chochote",
+        "category": "A"
+    },
+    {
+        "id": 7,
+        "nahau": "Amekula Fadhili",
+        "maana": "ametendewa hisani",
+        "category": "A"
+    },
+    {
+        "id": 8,
+        "nahau": "Amekuwa kibogoyo",
+        "maana": "hana meno",
+        "category": "A"
+    },
+    {
+        "id": 9,
+        "nahau": "Amepata naizesheni",
+        "maana": "amepata cheo",
+        "category": "A"
+    },
+    {
+        "id": 10,
+        "nahau": "Ametutupa mkono",
+        "maana": "amefariki/ametutoka",
+        "category": "A"
+    },
+    {
+        "id": 11,
+        "nahau": "Amevaa kisura",
+        "maana": "amejikwatua,amevaa vizuri",
+        "category": "A"
+    },
+    {
+        "id": 12,
+        "nahau": "Amevaa miwani",
+        "maana": "amelew pombe",
+        "category": "A"
+    },
+    {
+        "id": 13,
+        "nahau": "Ana inda",
+        "maana": "anakataa kumpa mtu kitu hali hana haja nacho",
+        "category": "A"
+    },
+    {
+        "id": 14,
+        "nahau": "Ana mkona mrefu",
+        "maana": "mwizi",
+        "category": "A"
+    },
+    {
+        "id": 15,
+        "nahau": "Ana mkono wa birika",
+        "maana": "mchoyo",
+        "category": "A"
+    },
+    {
+        "id": 16,
+        "nahau": "Anamranda baba",
+        "maana": "anafanana sana na baba",
+        "category": "A"
+    },
+    {
+        "id": 17,
+        "nahau": "Ananiwia",
+        "maana": "namdai",
+        "category": "A"
+    },
+    {
+        "id": 18,
+        "nahau": "Andaa meza",
+        "maana": "tayarisha chakula mezani",
+        "category": "A"
+    },
+    {
+        "id": 19,
+        "nahau": "Anika juani",
+        "maana": "weka mambo hadharani",
+        "category": "A"
+    },
+    {
+        "id": 20,
+        "nahau": "Anua tanga",
+        "maana": "kumaliza msiba",
+        "category": "A"
+    },
+    {
+        "id": 21,
+        "nahau": "Ashakum si matusi",
+        "maana": "niwie radhi kwa haya nitakayo yatamka",
+        "category": "A"
+    },
+    {
+        "id": 22,
+        "nahau": "Bambwa na polisi",
+        "maana": "kukamatwa na polisi.",
+        "category": "B"
+    },
+    {
+        "id": 23,
+        "nahau": "Bega kwa bega",
+        "maana": "kwa ushirikiano",
+        "category": "B"
+    },
+    {
+        "id": 24,
+        "nahau": "Bora afya",
+        "maana": "afya ndiyo mali.",
+        "category": "B"
+    },
+    {
+        "id": 25,
+        "nahau": "Bubujika maneno",
+        "maana": "kuongeamaneno kwa mfululizo.",
+        "category": "B"
+    },
+    {
+        "id": 26,
+        "nahau": "Buheri wa afya",
+        "maana": "mzima wa afya, raha mustarehe",
+        "category": "B"
+    },
+    {
+        "id": 27,
+        "nahau": "Bwaga chini",
+        "maana": "weka chini",
+        "category": "B"
+    },
+    {
+        "id": 28,
+        "nahau": "Changa bia",
+        "maana": "kula kwa ushirika.",
+        "category": "C"
+    },
+    {
+        "id": 29,
+        "nahau": "Chapa mguu",
+        "maana": "kutembea kwa miguu.",
+        "category": "C"
+    },
+    {
+        "id": 30,
+        "nahau": "Chombo kinakwenda mrama",
+        "maana": "chombo kipo hatarini.",
+        "category": "C"
+    },
+    {
+        "id": 31,
+        "nahau": "Chungulia kaburi",
+        "maana": "kuugua sana hata kukaribia kufa.",
+        "category": "C"
+    },
+    {
+        "id": 32,
+        "nahau": "Domo kay",
+        "maana": "mlaghai/mpayukaji",
+        "category": "D"
+    },
+    {
+        "id": 33,
+        "nahau": "Dunia kazi",
+        "maana": "kuvumilia kazi, kazi nikukazana",
+        "category": "D"
+    },
+    {
+        "id": 34,
+        "nahau": "Elimu ni bahari",
+        "maana": "elimu haina mwisho",
+        "category": "E"
+    },
+    {
+        "id": 35,
+        "nahau": "Enda chafya",
+        "maana": "piga chafya",
+        "category": "E"
+    },
+    {
+        "id": 36,
+        "nahau": "Enda mwayo",
+        "maana": "piga mwayo",
+        "category": "E"
+    },
+    {
+        "id": 37,
+        "nahau": "Fanya juu chini",
+        "maana": "jitahidi kwa kila njia",
+        "category": "F"
+    },
+    {
+        "id": 38,
+        "nahau": "Fanya kimasomaso",
+        "maana": "kuepuka matatizo kwa ujanja.",
+        "category": "F"
+    },
+    {
+        "id": 39,
+        "nahau": "Fanya kwa mkato",
+        "maana": "kufupisha/ kuharakisha.",
+        "category": "F"
+    },
+    {
+        "id": 40,
+        "nahau": "Fedha kichele",
+        "maana": "fedha kidogo",
+        "category": "F"
+    },
+    {
+        "id": 41,
+        "nahau": "Fika tamati",
+        "maana": "fika mwisho",
+        "category": "F"
+    },
+    {
+        "id": 42,
+        "nahau": "Fimbo zimemuota mgongoni",
+        "maana": "ana alama za fimbo mgongoni.",
+        "category": "F"
+    },
+    {
+        "id": 43,
+        "nahau": "Fuja mali",
+        "maana": "tumia mali ovyo",
+        "category": "F"
+    },
+    {
+        "id": 44,
+        "nahau": "Fulani hana faragha",
+        "maana": "hana siri",
+        "category": "F"
+    },
+    {
+        "id": 45,
+        "nahau": "Funga mkutano",
+        "maana": "kumaliza kikao",
+        "category": "F"
+    },
+    {
+        "id": 46,
+        "nahau": "Funga safari",
+        "maana": "kuanza safari",
+        "category": "F"
+    },
+    {
+        "id": 47,
+        "nahau": "Fyata mkia (ulimi)",
+        "maana": "Kunyamaza/Kukaa kimya",
+        "category": "F"
+    },
+    {
+        "id": 48,
+        "nahau": "Fyatua risasi",
+        "maana": "piga risasi",
+        "category": "F"
+    },
+    {
+        "id": 49,
+        "nahau": "Genge la vibarua",
+        "maana": "Shirika la vibarua",
+        "category": "G"
+    },
+    {
+        "id": 50,
+        "nahau": "Gumzo la uongo na kweli",
+        "maana": "mazungumzo ya kawaida.",
+        "category": "G"
+    },
+    {
+        "id": 51,
+        "nahau": "Hajapata jiko",
+        "maana": "hajaoa.",
+        "category": "H"
+    },
+    {
+        "id": 52,
+        "nahau": "Hana mbele wala nyuma",
+        "maana": "masikini/hahehahe",
+        "category": "H"
+    },
+    {
+        "id": 53,
+        "nahau": "Hawapikiki chungu kimoja",
+        "maana": "hawapatani kabisa.",
+        "category": "H"
+    },
+    {
+        "id": 54,
+        "nahau": "Hawezi kufua dafu",
+        "maana": "hana uwezo/ nguvu",
+        "category": "H"
+    },
+    {
+        "id": 55,
+        "nahau": "Hiari yako",
+        "maana": "upendavyo.",
+        "category": "H"
+    },
+    {
+        "id": 56,
+        "nahau": "Hoi hoi ya harusi/ siku kuu",
+        "maana": "shangwe ya harusi au siku kuu.",
+        "category": "H"
+    },
+    {
+        "id": 57,
+        "nahau": "Jina la kukebehi",
+        "maana": "jina la kupanga tena ni la dharau.",
+        "category": "J"
+    },
+    {
+        "id": 58,
+        "nahau": "Jipu limeiva",
+        "maana": "kivimbe cha jipu kimefikia kupasuka.",
+        "category": "J"
+    },
+    {
+        "id": 59,
+        "nahau": "Kaa chonjo",
+        "maana": "kuwa na tahadhari",
+        "category": "K"
+    },
+    {
+        "id": 60,
+        "nahau": "Kaba koo",
+        "maana": "kumsonga mtu kooni",
+        "category": "K"
+    },
+    {
+        "id": 61,
+        "nahau": "Kalia kitako",
+        "maana": "sengenya",
+        "category": "K"
+    },
+    {
+        "id": 62,
+        "nahau": "Kata Kamba",
+        "maana": "kufariki",
+        "category": "K"
+    },
+    {
+        "id": 63,
+        "nahau": "Kata kiu",
+        "maana": "maliza hamu",
+        "category": "K"
+    },
+    {
+        "id": 64,
+        "nahau": "Kata mitaa",
+        "maana": "kuzurura",
+        "category": "K"
+    },
+    {
+        "id": 65,
+        "nahau": "Kata roho",
+        "maana": "fariki",
+        "category": "K"
+    },
+    {
+        "id": 66,
+        "nahau": "Kata shauri",
+        "maana": "kuamua kufanya jambo",
+        "category": "K"
+    },
+    {
+        "id": 67,
+        "nahau": "Kata tamaa",
+        "maana": "kosa matumaini",
+        "category": "K"
+    },
+    {
+        "id": 68,
+        "nahau": "Kazi ya kijungu jiko",
+        "maana": "kazi isiyo maalumu",
+        "category": "K"
+    },
+    {
+        "id": 69,
+        "nahau": "Kazi ya kujitolea",
+        "maana": "kazi isiyo na mshahara",
+        "category": "K"
+    },
+    {
+        "id": 70,
+        "nahau": "Kifungua mimba",
+        "maana": "mtoto of kwanza kuzaliwa",
+        "category": "K"
+    },
+    {
+        "id": 71,
+        "nahau": "Kiini macho",
+        "maana": "mazingaombwe",
+        "category": "K"
+    },
+    {
+        "id": 72,
+        "nahau": "Kijitia madahilo",
+        "maana": "kujivuna/ kujitia fahari",
+        "category": "K"
+    },
+    {
+        "id": 73,
+        "nahau": "Kitinda mimba",
+        "maana": "mtoto wa mwisho kuzaliwa",
+        "category": "K"
+    },
+    {
+        "id": 74,
+        "nahau": "Kuadua msiba",
+        "maana": "kutambikia ili kuondosha msiba.",
+        "category": "K"
+    },
+    {
+        "id": 75,
+        "nahau": "Kucheza shere",
+        "maana": "kudhihaki",
+        "category": "K"
+    },
+    {
+        "id": 76,
+        "nahau": "Kuchokoa maneno",
+        "maana": "kutafuta chanzo cha maneno.",
+        "category": "K"
+    },
+    {
+        "id": 77,
+        "nahau": "Kufa kibudu",
+        "maana": "mnyama kufa bila kuchinjwa.",
+        "category": "K"
+    },
+    {
+        "id": 78,
+        "nahau": "Kufa kikondoo",
+        "maana": "kufa bila kujitetea",
+        "category": "K"
+    },
+    {
+        "id": 79,
+        "nahau": "Kufa kishujaa",
+        "maana": "kufa ukipigania haki",
+        "category": "K"
+    },
+    {
+        "id": 80,
+        "nahau": "Kufa maji",
+        "maana": "kufariki ndani ya maji/kuzama",
+        "category": "K"
+    },
+    {
+        "id": 81,
+        "nahau": "Kufa moyo",
+        "maana": "kukata tamaa",
+        "category": "K"
+    },
+    {
+        "id": 82,
+        "nahau": "Kufa na kupona",
+        "maana": "kukazana kwa nguvu zote.",
+        "category": "K"
+    },
+    {
+        "id": 83,
+        "nahau": "Kufanya tumbo joto",
+        "maana": "kuwa na wasi wasi",
+        "category": "K"
+    },
+    {
+        "id": 84,
+        "nahau": "Kufatana sanjari",
+        "maana": "Kufatana katika mistari mithili ya askali.",
+        "category": "K"
+    },
+    {
+        "id": 85,
+        "nahau": "Kufungua mkutano",
+        "maana": "kuanzisha mkutano.",
+        "category": "K"
+    },
+    {
+        "id": 86,
+        "nahau": "Kugongeana bilauli",
+        "maana": "kutakiana heri katika kinywaji.",
+        "category": "K"
+    },
+    {
+        "id": 87,
+        "nahau": "Kujikaza kisabuni",
+        "maana": "kujikaza mpaka mwisho.",
+        "category": "K"
+    },
+    {
+        "id": 88,
+        "nahau": "Kujipalia mkaa",
+        "maana": "kujitia matatani.",
+        "category": "K"
+    },
+    {
+        "id": 89,
+        "nahau": "Kukata rufani",
+        "maana": "kutaka kujitetea katika mahakama ya juu.",
+        "category": "K"
+    },
+    {
+        "id": 90,
+        "nahau": "Kukenua meno",
+        "maana": "kutoa meno nje",
+        "category": "K"
+    },
+    {
+        "id": 91,
+        "nahau": "Kula chumvi nyingi",
+        "maana": "kuishi miaka mingi",
+        "category": "K"
+    },
+    {
+        "id": 92,
+        "nahau": "Kula kiapo",
+        "maana": "kuapa",
+        "category": "K"
+    },
+    {
+        "id": 93,
+        "nahau": "Kula mlungula",
+        "maana": "kula rushwa/ kuzunguka mbuyu",
+        "category": "K"
+    },
+    {
+        "id": 94,
+        "nahau": "Kula mwande",
+        "maana": "kukosa jambo ulilo kusudia.",
+        "category": "K"
+    },
+    {
+        "id": 95,
+        "nahau": "Kula njama",
+        "maana": "kufanya mipango yasiri",
+        "category": "K"
+    },
+    {
+        "id": 96,
+        "nahau": "Kula rushwa",
+        "maana": "kupokea/kutoakitu/mali mapato yasiyo halali ili utoe/upokee msaada au huduma",
+        "category": "K"
+    },
+    {
+        "id": 97,
+        "nahau": "Kulala na njaa",
+        "maana": "kulala bila kula chakula chochote.",
+        "category": "K"
+    },
+    {
+        "id": 98,
+        "nahau": "Kulisha nyama ya ulimi",
+        "maana": "kutoa mazungumzo matamu",
+        "category": "K"
+    },
+    {
+        "id": 99,
+        "nahau": "Kumchimba mtu",
+        "maana": "kumtafuta mtu undani wake.",
+        "category": "K"
+    },
+    {
+        "id": 100,
+        "nahau": "Kumkata mtu kauli",
+        "maana": "kumdakiza mtu maneno.",
+        "category": "K"
+    },
+    {
+        "id": 101,
+        "nahau": "Kumnoa mtu",
+        "maana": "kumtia mtu fitina.",
+        "category": "K"
+    },
+    {
+        "id": 102,
+        "nahau": "Kumpa mtu kisogo",
+        "maana": "kumsahau/kumpuuza.",
+        "category": "K"
+    },
+    {
+        "id": 103,
+        "nahau": "Kumpa mtu pongezi",
+        "maana": "kumtakia heri na fanaka.",
+        "category": "K"
+    },
+    {
+        "id": 104,
+        "nahau": "Kumtia mtu moyo",
+        "maana": "kumhimiza mtu ajikaze.",
+        "category": "K"
+    },
+    {
+        "id": 105,
+        "nahau": "Kumuonea mtu kijicho",
+        "maana": "kumuonea wivu",
+        "category": "K"
+    },
+    {
+        "id": 106,
+        "nahau": "Kumuonyesha mtu mgongo",
+        "maana": "kumkimbia mtu.",
+        "category": "K"
+    },
+    {
+        "id": 107,
+        "nahau": "Kumwaga unga",
+        "maana": "kufukuzwa kazi",
+        "category": "K"
+    },
+    {
+        "id": 108,
+        "nahau": "Kunja uso",
+        "maana": "kasirika",
+        "category": "K"
+    },
+    {
+        "id": 109,
+        "nahau": "Kunywa chakari",
+        "maana": "kulewa saana pombe",
+        "category": "K"
+    },
+    {
+        "id": 110,
+        "nahau": "Kuondolea heshima",
+        "maana": "kukashifu/ ondolea jina.",
+        "category": "K"
+    },
+    {
+        "id": 111,
+        "nahau": "Kuondolea macho",
+        "maana": "kutazama kwa makini",
+        "category": "K"
+    },
+    {
+        "id": 112,
+        "nahau": "Kupelekwa miomboni",
+        "maana": "kupelekwa jandoni (unyagoni).",
+        "category": "K"
+    },
+    {
+        "id": 113,
+        "nahau": "Kupenyezea mtu fedha",
+        "maana": "kumhonga mtu fedha.",
+        "category": "K"
+    },
+    {
+        "id": 114,
+        "nahau": "Kupiga chuku",
+        "maana": "kutia chumvi katika habari.",
+        "category": "K"
+    },
+    {
+        "id": 115,
+        "nahau": "Kupiga mali shoka",
+        "maana": "kurithi mali na kuigawanya.",
+        "category": "K"
+    },
+    {
+        "id": 116,
+        "nahau": "Kupiga moyo konde",
+        "maana": "kujikaza.",
+        "category": "K"
+    },
+    {
+        "id": 117,
+        "nahau": "Kupiga mtindi",
+        "maana": "kunywa pombe",
+        "category": "K"
+    },
+    {
+        "id": 118,
+        "nahau": "Kupiga mtu ukope",
+        "maana": "kukonyeza mtu.",
+        "category": "K"
+    },
+    {
+        "id": 119,
+        "nahau": "Kupiga ubepari",
+        "maana": "kujinufaisha kwa kutumia jasho la wengine.",
+        "category": "K"
+    },
+    {
+        "id": 120,
+        "nahau": "Kupiga vijembe",
+        "maana": "kumsema mtu kwa mafumbo.",
+        "category": "K"
+    },
+    {
+        "id": 121,
+        "nahau": "Kupunga mashetani",
+        "maana": "kuita mashetani",
+        "category": "K"
+    },
+    {
+        "id": 122,
+        "nahau": "Kupunga upepo",
+        "maana": "matembezi ya kujiburudisha.",
+        "category": "K"
+    },
+    {
+        "id": 123,
+        "nahau": "Kuruka kesi",
+        "maana": "kuepuka kesi kwa ujanja.",
+        "category": "K"
+    },
+    {
+        "id": 124,
+        "nahau": "Kusema kiada",
+        "maana": "kusema polepole kwa lafudhi.",
+        "category": "K"
+    },
+    {
+        "id": 125,
+        "nahau": "Kusema vizuri na watu",
+        "maana": "kutoa hongo (kuhonga).",
+        "category": "K"
+    },
+    {
+        "id": 126,
+        "nahau": "Kushinda na njaa",
+        "maana": "kukaa kutwa bila kula",
+        "category": "K"
+    },
+    {
+        "id": 127,
+        "nahau": "Kusoma kwa gaibu",
+        "maana": "Kusoma bila kutazama kitu.",
+        "category": "K"
+    },
+    {
+        "id": 128,
+        "nahau": "Kuukata/ kuuchinja",
+        "maana": "kuwa na mafanikio",
+        "category": "K"
+    },
+    {
+        "id": 129,
+        "nahau": "Kuvisha kilemba cha ukoka",
+        "maana": "kumsifia mtu sifa asizo stahili",
+        "category": "K"
+    },
+    {
+        "id": 130,
+        "nahau": "Kuwa macho",
+        "maana": "kuwa mwangalifu",
+        "category": "K"
+    },
+    {
+        "id": 131,
+        "nahau": "Kwenda haja",
+        "maana": "kujisaidia",
+        "category": "K"
+    },
+    {
+        "id": 132,
+        "nahau": "Lala fofofo",
+        "maana": "lala usingizi mzito",
+        "category": "L"
+    },
+    {
+        "id": 133,
+        "nahau": "Lala matanga",
+        "maana": "kulala msibani",
+        "category": "L"
+    },
+    {
+        "id": 134,
+        "nahau": "Mezea mate",
+        "maana": "tamani kitu",
+        "category": "M"
+    },
+    {
+        "id": 135,
+        "nahau": "Mvua za rasharasha",
+        "maana": "mvua ndogo ndogo/ manyunyu.",
+        "category": "M"
+    },
+    {
+        "id": 136,
+        "nahau": "Mtoto wa kikopo",
+        "maana": "mhuni",
+        "category": "M"
+    },
+    {
+        "id": 137,
+        "nahau": "Ndumila kuwili",
+        "maana": "mtu anayetoa maneno ya umbea huku na kupeleka kwingine.",
+        "category": "N"
+    },
+    {
+        "id": 138,
+        "nahau": "Nyonya nguvu",
+        "maana": "kujitajirisha kwa nguvu za watu wengine.",
+        "category": "N"
+    },
+    {
+        "id": 139,
+        "nahau": "Omba radhi",
+        "maana": "omba msamaha",
+        "category": "O"
+    },
+    {
+        "id": 140,
+        "nahau": "Ona cha mtemakuni",
+        "maana": "pata taabu/mateso",
+        "category": "O"
+    },
+    {
+        "id": 141,
+        "nahau": "Ona fahari",
+        "maana": "jivunia",
+        "category": "O"
+    },
+    {
+        "id": 142,
+        "nahau": "Ona haya",
+        "maana": "kuwa na aibu",
+        "category": "O"
+    },
+    {
+        "id": 143,
+        "nahau": "Paka mafuta kwa mgongo wa chupa",
+        "maana": "kumpa mtu sifa asizostahili/ danganya.",
+        "category": "P"
+    },
+    {
+        "id": 144,
+        "nahau": "Pata ahueni",
+        "maana": "pata nafuu",
+        "category": "P"
+    },
+    {
+        "id": 145,
+        "nahau": "Pata jiko",
+        "maana": "kuoa/kuolewa",
+        "category": "P"
+    },
+    {
+        "id": 146,
+        "nahau": "Piga chenga",
+        "maana": "kwepa",
+        "category": "P"
+    },
+    {
+        "id": 147,
+        "nahau": "Piga deki",
+        "maana": "safisha",
+        "category": "P"
+    },
+    {
+        "id": 148,
+        "nahau": "Piga domo",
+        "maana": "kuongea sana",
+        "category": "P"
+    },
+    {
+        "id": 149,
+        "nahau": "Piga kithembe",
+        "maana": "kushindwa kutamkanenoi pasavyo",
+        "category": "P"
+    },
+    {
+        "id": 150,
+        "nahau": "Piga makofi",
+        "maana": "shangilia",
+        "category": "P"
+    },
+    {
+        "id": 151,
+        "nahau": "Piga marufuku",
+        "maana": "kataza jambo",
+        "category": "P"
+    },
+    {
+        "id": 152,
+        "nahau": "Piga mbinja",
+        "maana": "piga mluzi",
+        "category": "P"
+    },
+    {
+        "id": 153,
+        "nahau": "Piga mbio",
+        "maana": "kukimbia",
+        "category": "P"
+    },
+    {
+        "id": 154,
+        "nahau": "Piga mbiu",
+        "maana": "tangazo la wazi",
+        "category": "P"
+    },
+    {
+        "id": 155,
+        "nahau": "Piga mbizi",
+        "maana": "ogelea",
+        "category": "P"
+    },
+    {
+        "id": 156,
+        "nahau": "Piga moyo konde",
+        "maana": "kujikaza",
+        "category": "P"
+    },
+    {
+        "id": 157,
+        "nahau": "Piga usingizi",
+        "maana": "kulala",
+        "category": "P"
+    },
+    {
+        "id": 158,
+        "nahau": "Piga uvivu",
+        "maana": "kukaa bila kufanya kazi",
+        "category": "P"
+    },
+    {
+        "id": 159,
+        "nahau": "Piga windo",
+        "maana": "kusaka mnyama au ndege porini",
+        "category": "P"
+    },
+    {
+        "id": 160,
+        "nahau": "Piga yowe",
+        "maana": "piga kelele ili kupata msaada",
+        "category": "P"
+    },
+    {
+        "id": 161,
+        "nahau": "Pigwa butwaa",
+        "maana": "shikwa na mshangao",
+        "category": "P"
+    },
+    {
+        "id": 162,
+        "nahau": "Pokea kwa mikono miwili",
+        "maana": "kupokea kwa shukurani",
+        "category": "P"
+    },
+    {
+        "id": 163,
+        "nahau": "Ponea chupuchupu",
+        "maana": "nusurika kufa/kupona kwa bahati",
+        "category": "P"
+    },
+    {
+        "id": 164,
+        "nahau": "Salama salimini",
+        "maana": "bila tatizo lolote",
+        "category": "S"
+    },
+    {
+        "id": 165,
+        "nahau": "Shika tama",
+        "maana": "sikitika /huzunika",
+        "category": "S"
+    },
+    {
+        "id": 166,
+        "nahau": "Shika mkia",
+        "maana": "kuwa wa mwisho.",
+        "category": "S"
+    },
+    {
+        "id": 167,
+        "nahau": "Shika usukani",
+        "maana": "ongoza",
+        "category": "S"
+    },
+    {
+        "id": 168,
+        "nahau": "Shika vumbi",
+        "maana": "chafuka",
+        "category": "S"
+    },
+    {
+        "id": 169,
+        "nahau": "Shikwa na homa",
+        "maana": "pata homa/ugua",
+        "category": "S"
+    },
+    {
+        "id": 170,
+        "nahau": "Shingo upande",
+        "maana": "kutokuridhika",
+        "category": "S"
+    },
+    {
+        "id": 171,
+        "nahau": "Sina hali",
+        "maana": "sijiwezi",
+        "category": "S"
+    },
+    {
+        "id": 172,
+        "nahau": "Tajiri wa rangi",
+        "maana": "kinyonga",
+        "category": "T"
+    },
+    {
+        "id": 173,
+        "nahau": "Tega sikio",
+        "maana": "sikiliza kwa makini",
+        "category": "T"
+    },
+    {
+        "id": 174,
+        "nahau": "Tia chumvi",
+        "maana": "ongeza maneno yasiyo ya kweli",
+        "category": "T"
+    },
+    {
+        "id": 175,
+        "nahau": "Tia doa",
+        "maana": "weka dosari/kasoro",
+        "category": "T"
+    },
+    {
+        "id": 176,
+        "nahau": "Tia for a",
+        "maana": "kupita kiasi",
+        "category": "T"
+    },
+    {
+        "id": 177,
+        "nahau": "Tia moyo",
+        "maana": "kumpa mtu matumaini",
+        "category": "T"
+    },
+    {
+        "id": 178,
+        "nahau": "Tia nanga",
+        "maana": "fika mwisho",
+        "category": "T"
+    },
+    {
+        "id": 179,
+        "nahau": "Toa rambirambi",
+        "maana": "kutoa pole",
+        "category": "T"
+    },
+    {
+        "id": 180,
+        "nahau": "Toa wosia",
+        "maana": "sema maneno ya mwisho",
+        "category": "T"
+    },
+    {
+        "id": 181,
+        "nahau": "Toka sare",
+        "maana": "kufanana",
+        "category": "T"
+    },
+    {
+        "id": 182,
+        "nahau": "Unga mkono",
+        "maana": "kubaliana",
+        "category": "U"
+    },
+    {
+        "id": 183,
+        "nahau": "Vunja ahadi",
+        "maana": "kutotimiza makubaliano",
+        "category": "V"
+    },
+    {
+        "id": 184,
+        "nahau": "Vunja moyo",
+        "maana": "katisha tamaa",
+        "category": "V"
+    },
+    {
+        "id": 185,
+        "nahau": "Zaa matunda",
+        "maana": "onyesha mafanikio",
+        "category": "Z"
+    }
+]

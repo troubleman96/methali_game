@@ -1,7 +1,7 @@
 // Domain Layer - Core Business Entities
 // These represent the core business concepts and rules
 
-export type QuestionType = 'Kitendawili' | 'Methali';
+export type QuestionType = 'Kitendawili' | 'Methali' | 'Nahau';
 
 export interface Question {
   readonly id: string;

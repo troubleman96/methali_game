@@ -3,7 +3,7 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import { GameState, createInitialGameState } from '@domain/entities/GameState';
-import { ShuffledQuestion } from '@domain/entities/Question';
+import { ShuffledQuestion, QuestionType } from '@domain/entities/Question';
 import { LeaderboardEntry } from '@domain/entities/Score';
 import { AnswerFeedback } from '@domain/valueObjects/AnswerResult';
 import { StartGameUseCase } from '@application/useCases/StartGameUseCase';
@@ -65,8 +65,8 @@ export const useGameViewModel = ({
     }
   }, [gameState.timeLeft, gameState.status, feedback]);
 
-  const startGame = useCallback(async () => {
-    const gameQuestions = await startGameUseCase.execute(20);
+  const startGame = useCallback(async (type?: QuestionType) => {
+    const gameQuestions = await startGameUseCase.execute(20, type);
     setQuestions(gameQuestions);
     setGameState({
       ...createInitialGameState(),
@@ -81,7 +81,7 @@ export const useGameViewModel = ({
       if (feedback) return;
 
       const currentQuestion = questions[gameState.currentQuestionIndex];
-      
+
       const result = answerQuestionUseCase.execute({
         selectedOption,
         correctAnswer: currentQuestion.answer,
@@ -152,8 +152,8 @@ export const useGameViewModel = ({
   }, []);
 
   const currentQuestion = questions[gameState.currentQuestionIndex];
-  const progress = questions.length > 0 
-    ? ((gameState.currentQuestionIndex + 1) / questions.length) * 100 
+  const progress = questions.length > 0
+    ? ((gameState.currentQuestionIndex + 1) / questions.length) * 100
     : 0;
 
   return {

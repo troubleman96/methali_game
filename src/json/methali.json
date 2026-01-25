@@ -1,0 +1,1462 @@
+[
+    {
+        "id": 1,
+        "text": "Aibu ya maiti, aijuaye mwosha",
+        "category": "A"
+    },
+    {
+        "id": 2,
+        "text": "Abadi abadi, kamba hukata jiwe",
+        "category": "A"
+    },
+    {
+        "id": 3,
+        "text": "Afya ni bora, kuliko mali",
+        "category": "A"
+    },
+    {
+        "id": 4,
+        "text": "Ahadi ni, deni",
+        "category": "A"
+    },
+    {
+        "id": 5,
+        "text": "Aisifuye mvua, imemnyea",
+        "category": "A"
+    },
+    {
+        "id": 6,
+        "text": "Akiba, haiozi",
+        "category": "A"
+    },
+    {
+        "id": 7,
+        "text": "Akili ni nywele, kila mtu ana zake",
+        "category": "A"
+    },
+    {
+        "id": 8,
+        "text": "Akili nyingi, huondoa maarifa",
+        "category": "A"
+    },
+    {
+        "id": 9,
+        "text": "Akufaaye kwa dhiki, ndiye rafiki",
+        "category": "A"
+    },
+    {
+        "id": 10,
+        "text": "Akutendaye mtende, mche asiyekutenda",
+        "category": "A"
+    },
+    {
+        "id": 11,
+        "text": "Alalaye usimwamshe, ukimwamsha utalala wewe",
+        "category": "A"
+    },
+    {
+        "id": 12,
+        "text": "Aliye kando, haangukiwi na mti",
+        "category": "A"
+    },
+    {
+        "id": 13,
+        "text": "Aliye juu, mngoje chini",
+        "category": "A"
+    },
+    {
+        "id": 14,
+        "text": "Aliyezoea kupokea, kutoa ni vita",
+        "category": "A"
+    },
+    {
+        "id": 15,
+        "text": "Apendwapo akajua, haachi kujishaua (kujigamba)",
+        "category": "A"
+    },
+    {
+        "id": 16,
+        "text": "Asiyekuwa na wake, ana Mungu",
+        "category": "A"
+    },
+    {
+        "id": 17,
+        "text": "Asiyesikia la mkuu, huvunjika guu",
+        "category": "A"
+    },
+    {
+        "id": 18,
+        "text": "Asiye na bahati, habahatiki",
+        "category": "A"
+    },
+    {
+        "id": 19,
+        "text": "Asiye na mwana, aeleke jiwe",
+        "category": "A"
+    },
+    {
+        "id": 20,
+        "text": "Asiyekujua, hakuthamini",
+        "category": "A"
+    },
+    {
+        "id": 21,
+        "text": "Atangaye sana na jua, hujua",
+        "category": "A"
+    },
+    {
+        "id": 22,
+        "text": "Avumaye baharini, papa kumbe wengi wapo",
+        "category": "A"
+    },
+    {
+        "id": 23,
+        "text": "Asiyekubali kushindwa, si mshindani",
+        "category": "A"
+    },
+    {
+        "id": 24,
+        "text": "Aliye kando haangukiwi na mti.",
+        "category": "A"
+    },
+    {
+        "id": 25,
+        "text": "Anayekataa wengi ni mchawi.",
+        "category": "A"
+    },
+    {
+        "id": 26,
+        "text": "Anayenyolewa kwa chupa hasahau",
+        "category": "A"
+    },
+    {
+        "id": 27,
+        "text": "Anayeonja asali, huchonga mzinga.",
+        "category": "A"
+    },
+    {
+        "id": 28,
+        "text": "Aombaye maji, huombea chunguche",
+        "category": "A"
+    },
+    {
+        "id": 29,
+        "text": "Asiye na mengi, ana machache.",
+        "category": "A"
+    },
+    {
+        "id": 30,
+        "text": "Aulizaye, anataka kujua.",
+        "category": "A"
+    },
+    {
+        "id": 31,
+        "text": "Baada ya dhiki, faraja",
+        "category": "B"
+    },
+    {
+        "id": 32,
+        "text": "Baba wa kambo si, baba",
+        "category": "B"
+    },
+    {
+        "id": 33,
+        "text": "Bahati ya mwenzio, usiilalie mlango wazi",
+        "category": "B"
+    },
+    {
+        "id": 34,
+        "text": "Bandu bandu, huisha gogo",
+        "category": "B"
+    },
+    {
+        "id": 35,
+        "text": "Baniani mbaya, kiatu chake dawa",
+        "category": "B"
+    },
+    {
+        "id": 36,
+        "text": "Barua, ni nusu ya kuonana",
+        "category": "B"
+    },
+    {
+        "id": 37,
+        "text": "Bendera, hufuata upepo",
+        "category": "B"
+    },
+    {
+        "id": 38,
+        "text": "Biashara, haigombi",
+        "category": "B"
+    },
+    {
+        "id": 39,
+        "text": "Bura yangu, sibadili na rehani",
+        "category": "B"
+    },
+    {
+        "id": 40,
+        "text": "Bila silaha, usiingie vitani",
+        "category": "B"
+    },
+    {
+        "id": 41,
+        "text": "Baada ya kisa mkasa",
+        "category": "B"
+    },
+    {
+        "id": 42,
+        "text": "Changu chetu, chako chako",
+        "category": "C"
+    },
+    {
+        "id": 43,
+        "text": "Cha kupewa si, chako",
+        "category": "C"
+    },
+    {
+        "id": 44,
+        "text": "Cha mlevi, huliwa na mgema",
+        "category": "C"
+    },
+    {
+        "id": 45,
+        "text": "Chanda chema, huvikwa pete",
+        "category": "C"
+    },
+    {
+        "id": 46,
+        "text": "Chovya chovya, humaliza buyu la asali",
+        "category": "C"
+    },
+    {
+        "id": 47,
+        "text": "Cheche ya moto, huchoma msitu",
+        "category": "C"
+    },
+    {
+        "id": 48,
+        "text": "Chema, hakidumu",
+        "category": "C"
+    },
+    {
+        "id": 49,
+        "text": "Chombo kilichopikia samaki, hakiachi kunuka vumba",
+        "category": "C"
+    },
+    {
+        "id": 50,
+        "text": "Chururu, si ndo! ndo! ndo!",
+        "category": "C"
+    },
+    {
+        "id": 51,
+        "text": "Chaka la simba, halilali nguruwe,",
+        "category": "C"
+    },
+    {
+        "id": 52,
+        "text": "Chombo cha kuzama, hakina usukani",
+        "category": "C"
+    },
+    {
+        "id": 53,
+        "text": "Dalili ya mvua, ni mawingu",
+        "category": "D"
+    },
+    {
+        "id": 54,
+        "text": "Damu ni nzito, kuliko maji",
+        "category": "D"
+    },
+    {
+        "id": 55,
+        "text": "Daraja lililo kuvusha, usilitukane",
+        "category": "D"
+    },
+    {
+        "id": 56,
+        "text": "Dau la mnyonge, haliendi joshi",
+        "category": "D"
+    },
+    {
+        "id": 57,
+        "text": "Dawa ya moto, ni moto",
+        "category": "D"
+    },
+    {
+        "id": 58,
+        "text": "Dawa ya deni, ni kulipa",
+        "category": "D"
+    },
+    {
+        "id": 59,
+        "text": "Dhamira, ni dira",
+        "category": "D"
+    },
+    {
+        "id": 60,
+        "text": "Dua la kuku, halimpati mwewe",
+        "category": "D"
+    },
+    {
+        "id": 61,
+        "text": "Dunia, tambara bovu",
+        "category": "D"
+    },
+    {
+        "id": 62,
+        "text": "Dunia, ni watu",
+        "category": "D"
+    },
+    {
+        "id": 63,
+        "text": "Dunia mti mkavu, kiumbe usiuelemee",
+        "category": "D"
+    },
+    {
+        "id": 64,
+        "text": "Daraja livuke, ufikiapo.",
+        "category": "D"
+    },
+    {
+        "id": 65,
+        "text": "Debe tupu, haliachi kuvuma.",
+        "category": "D"
+    },
+    {
+        "id": 66,
+        "text": "Elimu, haina mwisho",
+        "category": "E"
+    },
+    {
+        "id": 67,
+        "text": "Elfu, huanzia moja",
+        "category": "E"
+    },
+    {
+        "id": 68,
+        "text": "Enda na uchao, usiende na uchwao",
+        "category": "E"
+    },
+    {
+        "id": 69,
+        "text": "Elimu ni bahari.",
+        "category": "E"
+    },
+    {
+        "id": 70,
+        "text": "Fadhila ya punda, mateke",
+        "category": "F"
+    },
+    {
+        "id": 71,
+        "text": "Fahari wawili, hawakai zizi moja",
+        "category": "F"
+    },
+    {
+        "id": 72,
+        "text": "Fimbo ya mbali, haiui nyoka",
+        "category": "F"
+    },
+    {
+        "id": 73,
+        "text": "Fuata nyuki, ule asali",
+        "category": "F"
+    },
+    {
+        "id": 74,
+        "text": "Fumbo mfumbie mjinga, mwerevu huling’amua",
+        "category": "F"
+    },
+    {
+        "id": 75,
+        "text": "Funika kombe, mwanaharamu apite",
+        "category": "F"
+    },
+    {
+        "id": 76,
+        "text": "Fimbo ya mnyonge, ni umoja.",
+        "category": "F"
+    },
+    {
+        "id": 77,
+        "text": "Gae, huwa chombo wakatiwe",
+        "category": "G"
+    },
+    {
+        "id": 78,
+        "text": "Ganda la mua la jana, chungu kaona kivuno",
+        "category": "G"
+    },
+    {
+        "id": 79,
+        "text": "Gonga gogo, usikie mlio wake",
+        "category": "G"
+    },
+    {
+        "id": 80,
+        "text": "Hapana siri, ya watu wawili",
+        "category": "H"
+    },
+    {
+        "id": 81,
+        "text": "Haraka haraka, haina Baraka",
+        "category": "H"
+    },
+    {
+        "id": 82,
+        "text": "Hala hala, mti na macho",
+        "category": "H"
+    },
+    {
+        "id": 83,
+        "text": "Hadhari, kabla ya hatari",
+        "category": "H"
+    },
+    {
+        "id": 84,
+        "text": "Haba na haba, hujaza kibaba",
+        "category": "H"
+    },
+    {
+        "id": 85,
+        "text": "Hakuna masika, yasiyokuwa na mbu",
+        "category": "H"
+    },
+    {
+        "id": 86,
+        "text": "Hakuna marefu, yasiyokuwa na ncha",
+        "category": "H"
+    },
+    {
+        "id": 87,
+        "text": "Hamadi kibindoni, silaha iliyo mkononi",
+        "category": "H"
+    },
+    {
+        "id": 88,
+        "text": "Hasira, hasara",
+        "category": "H"
+    },
+    {
+        "id": 89,
+        "text": "Heri nusu shari, kuliko shari kamili",
+        "category": "H"
+    },
+    {
+        "id": 90,
+        "text": "Heri kenda shika, kuliko kumi nenda rudi",
+        "category": "H"
+    },
+    {
+        "id": 91,
+        "text": "Hucheka kovu, asiyefikwa na jeraha",
+        "category": "H"
+    },
+    {
+        "id": 92,
+        "text": "Hakuna msiba, usio na mwenziwe",
+        "category": "H"
+    },
+    {
+        "id": 93,
+        "text": "Hasira za mkizi, furaha ya mvuvi.",
+        "category": "H"
+    },
+    {
+        "id": 94,
+        "text": "Heri kufa macho, kuliko kufa moyo.",
+        "category": "H"
+    },
+    {
+        "id": 95,
+        "text": "Hiari, hushinda utumwa",
+        "category": "H"
+    },
+    {
+        "id": 96,
+        "text": "Ihsani, haiozi",
+        "category": "I"
+    },
+    {
+        "id": 97,
+        "text": "Ivumayo, haidumu",
+        "category": "I"
+    },
+    {
+        "id": 98,
+        "text": "Jambo usilo lijua, ni kama usiku wa giza",
+        "category": "J"
+    },
+    {
+        "id": 99,
+        "text": "Jifya moja, haliinjiki chungu",
+        "category": "J"
+    },
+    {
+        "id": 100,
+        "text": "Jina jema, hung’aa gizani",
+        "category": "J"
+    },
+    {
+        "id": 101,
+        "text": "Jogoo hulia, “Uta wangu u kule”",
+        "category": "J"
+    },
+    {
+        "id": 102,
+        "text": "Jogoo wa shamba, hawiki mjini",
+        "category": "J"
+    },
+    {
+        "id": 103,
+        "text": "Joka la mdimu, huwalinda watundao",
+        "category": "J"
+    },
+    {
+        "id": 104,
+        "text": "Jungu kuu, halikosi ukoko",
+        "category": "J"
+    },
+    {
+        "id": 105,
+        "text": "Jembe halimtupi, mkulima",
+        "category": "J"
+    },
+    {
+        "id": 106,
+        "text": "Jino la pembe, si dawa pengo.",
+        "category": "J"
+    },
+    {
+        "id": 107,
+        "text": "Kalamu ya Mungu, haikosei",
+        "category": "K"
+    },
+    {
+        "id": 108,
+        "text": "Kata pua, uunge wajihi",
+        "category": "K"
+    },
+    {
+        "id": 109,
+        "text": "Kawaida, ni kama sheria",
+        "category": "K"
+    },
+    {
+        "id": 110,
+        "text": "Kipenda roho, hula nyama mbichi",
+        "category": "K"
+    },
+    {
+        "id": 111,
+        "text": "Kilema, si ugonjwa",
+        "category": "K"
+    },
+    {
+        "id": 112,
+        "text": "Kizuri chajiuza, kibaya chajitembeza",
+        "category": "K"
+    },
+    {
+        "id": 113,
+        "text": "Kawia, ufike",
+        "category": "K"
+    },
+    {
+        "id": 114,
+        "text": "Kila mwamba ngoma, ngozi huvutia kwake",
+        "category": "K"
+    },
+    {
+        "id": 115,
+        "text": "Kimya kingi, kina mshindo mkuu",
+        "category": "K"
+    },
+    {
+        "id": 116,
+        "text": "Kitanda usichokilalia, hujui kunguni wake",
+        "category": "K"
+    },
+    {
+        "id": 117,
+        "text": "Kosa moja, haliachi mke",
+        "category": "K"
+    },
+    {
+        "id": 118,
+        "text": "Kufa kikondoo, ndiko kufa kiungwana",
+        "category": "K"
+    },
+    {
+        "id": 119,
+        "text": "Kukopa harusi, kulipa matanga",
+        "category": "K"
+    },
+    {
+        "id": 120,
+        "text": "Kupanda mchongoma, kushuka ndio ngoma",
+        "category": "K"
+    },
+    {
+        "id": 121,
+        "text": "Kila shetani, na mbuyu wake",
+        "category": "K"
+    },
+    {
+        "id": 122,
+        "text": "Kuuliza, si ujinga",
+        "category": "K"
+    },
+    {
+        "id": 123,
+        "text": "Kuvuja kwa pakacha, nafuu ya mchukuzi",
+        "category": "K"
+    },
+    {
+        "id": 124,
+        "text": "Kuku mgeni, hakosi kamba mguuni",
+        "category": "K"
+    },
+    {
+        "id": 125,
+        "text": "Kamba, hukatikia pembamba",
+        "category": "K"
+    },
+    {
+        "id": 126,
+        "text": "kanga hazai, ugenini.",
+        "category": "K"
+    },
+    {
+        "id": 127,
+        "text": "kiburi si, maungwana",
+        "category": "K"
+    },
+    {
+        "id": 128,
+        "text": "kila ndege, huruka na bawa lake.",
+        "category": "K"
+    },
+    {
+        "id": 129,
+        "text": "Kinyozi, hajinyoi na akijinyoa hujikata.",
+        "category": "K"
+    },
+    {
+        "id": 130,
+        "text": "Kinywa, ni jumba la maneno.",
+        "category": "K"
+    },
+    {
+        "id": 131,
+        "text": "Kisebusebu, na kiroho papo.",
+        "category": "K"
+    },
+    {
+        "id": 132,
+        "text": "Koti la babu, halikosi chawa.",
+        "category": "K"
+    },
+    {
+        "id": 133,
+        "text": "Kuambiana, kupo kusikilizana hapana.",
+        "category": "K"
+    },
+    {
+        "id": 134,
+        "text": "Kufa kwa mdomo, mate hutawanyika",
+        "category": "K"
+    },
+    {
+        "id": 135,
+        "text": "Kujikwaa, si kuanguka bali ni kwenda mbele.",
+        "category": "K"
+    },
+    {
+        "id": 136,
+        "text": "Kulea mimba, si kazi kazi kumlea mwana.",
+        "category": "K"
+    },
+    {
+        "id": 137,
+        "text": "Kunako matanga, amekufa mtu.",
+        "category": "K"
+    },
+    {
+        "id": 138,
+        "text": "Kupotea njia, ndio kujua njia.",
+        "category": "K"
+    },
+    {
+        "id": 139,
+        "text": "Kutoa ni moyo, na si utajiri.",
+        "category": "K"
+    },
+    {
+        "id": 140,
+        "text": "Kuvuja kwa pakacha, nafuu kwa mchukuzi",
+        "category": "K"
+    },
+    {
+        "id": 141,
+        "text": "La kuvunda, halina ubani",
+        "category": "L"
+    },
+    {
+        "id": 142,
+        "text": "Lenye mwanzo, lina mwisho",
+        "category": "L"
+    },
+    {
+        "id": 143,
+        "text": "Lila na fila, havitangamani",
+        "category": "L"
+    },
+    {
+        "id": 144,
+        "text": "Linalowezekana leo, lisingoje kesho",
+        "category": "L"
+    },
+    {
+        "id": 145,
+        "text": "Leo ni leo, asemaye kesho mwongo",
+        "category": "L"
+    },
+    {
+        "id": 146,
+        "text": "Liandikwalo, ndilo liwalo.",
+        "category": "L"
+    },
+    {
+        "id": 147,
+        "text": "Lipitalo, hupishwa",
+        "category": "L"
+    },
+    {
+        "id": 148,
+        "text": "Kinga ni bora, kuliko tiba",
+        "category": "M"
+    },
+    {
+        "id": 149,
+        "text": "Maji yakimwagika, hayazoleki",
+        "category": "M"
+    },
+    {
+        "id": 150,
+        "text": "Maji, hufuata mkondo",
+        "category": "M"
+    },
+    {
+        "id": 151,
+        "text": "Mapenzi ni kikohozi, hayawezi kufichika",
+        "category": "M"
+    },
+    {
+        "id": 152,
+        "text": "Mbio za sakafuni, huishia ukingoni",
+        "category": "M"
+    },
+    {
+        "id": 153,
+        "text": "Mchagua jembe, si mkulima",
+        "category": "M"
+    },
+    {
+        "id": 154,
+        "text": "Mchagua nazi, hupata koroma",
+        "category": "M"
+    },
+    {
+        "id": 155,
+        "text": "Mchelea mwana kulia, hulia mwenyewe",
+        "category": "M"
+    },
+    {
+        "id": 156,
+        "text": "Mcheza kwao, hutunzwa",
+        "category": "M"
+    },
+    {
+        "id": 157,
+        "text": "Mchumia juani, hulia kivulini",
+        "category": "M"
+    },
+    {
+        "id": 158,
+        "text": "Mdharau mwiba, mguu huota tende",
+        "category": "M"
+    },
+    {
+        "id": 159,
+        "text": "Mgaagaa na upwa, hali wali mkavu",
+        "category": "M"
+    },
+    {
+        "id": 160,
+        "text": "Mchimba kisima, huingia mwenyewe",
+        "category": "M"
+    },
+    {
+        "id": 161,
+        "text": "Mla nawe hafi nawe, ila mzaliwa nawe",
+        "category": "M"
+    },
+    {
+        "id": 162,
+        "text": "Msema kweli, ni mpenzi wa Mungu",
+        "category": "M"
+    },
+    {
+        "id": 163,
+        "text": "Mtaka cha uvunguni, sharti ainame",
+        "category": "M"
+    },
+    {
+        "id": 164,
+        "text": "Mtoto umleavyo, ndivyo akuavyo",
+        "category": "M"
+    },
+    {
+        "id": 165,
+        "text": "Mvumilivu, hula mbivu",
+        "category": "M"
+    },
+    {
+        "id": 166,
+        "text": "Mwana maji wa kale, hufa maji mazoea.",
+        "category": "M"
+    },
+    {
+        "id": 167,
+        "text": "Mwenda pole, hajikwai",
+        "category": "M"
+    },
+    {
+        "id": 168,
+        "text": "Mwenda kombo, marejeo ngamani",
+        "category": "M"
+    },
+    {
+        "id": 169,
+        "text": "Mwosha, huoshwa",
+        "category": "M"
+    },
+    {
+        "id": 170,
+        "text": "Macho, hayana pazia.",
+        "category": "M"
+    },
+    {
+        "id": 171,
+        "text": "Maiti, haulizwi sanda.",
+        "category": "M"
+    },
+    {
+        "id": 172,
+        "text": "Maji ukiyavulia nguo, huna budi kuyaoga.",
+        "category": "M"
+    },
+    {
+        "id": 173,
+        "text": "Maji ya kifuu, bahari ya chungu",
+        "category": "M"
+    },
+    {
+        "id": 174,
+        "text": "Majumba makubwa, husitiri mambo.",
+        "category": "M"
+    },
+    {
+        "id": 175,
+        "text": "Majuto, ni mjukuu.",
+        "category": "M"
+    },
+    {
+        "id": 176,
+        "text": "Mali bila daftari, huisha bila habari.",
+        "category": "M"
+    },
+    {
+        "id": 177,
+        "text": "Maneno matupu, hayavunji mfupa.",
+        "category": "M"
+    },
+    {
+        "id": 178,
+        "text": "Maneno mazuri, humtoa nyoka pangoni.",
+        "category": "M"
+    },
+    {
+        "id": 179,
+        "text": "Maneno mengi, hula vitendo.",
+        "category": "M"
+    },
+    {
+        "id": 180,
+        "text": "Mavi ya kale, hayanuki.",
+        "category": "M"
+    },
+    {
+        "id": 181,
+        "text": "Mchoyo, hana rafiki.",
+        "category": "M"
+    },
+    {
+        "id": 182,
+        "text": "Mficha maradhi, mauti/kifo humuumbua",
+        "category": "M"
+    },
+    {
+        "id": 183,
+        "text": "Mganga, hajigangi",
+        "category": "M"
+    },
+    {
+        "id": 184,
+        "text": "Mgema akisifiwa, tembo hulitia maji.",
+        "category": "M"
+    },
+    {
+        "id": 185,
+        "text": "Mkaidi hafaidi, hadi siku ya iddi.",
+        "category": "M"
+    },
+    {
+        "id": 186,
+        "text": "Mkuki kwa nguruwe, kwa binadamu mchungu.",
+        "category": "M"
+    },
+    {
+        "id": 187,
+        "text": "Mchele mmoja, mapishi mbalimbali.",
+        "category": "M"
+    },
+    {
+        "id": 188,
+        "text": "Mpanda ngazi, hushuka.",
+        "category": "M"
+    },
+    {
+        "id": 189,
+        "text": "Mpanda hovyo, hula ovyo.",
+        "category": "M"
+    },
+    {
+        "id": 190,
+        "text": "Mpenda chongo, huona kengeza.",
+        "category": "M"
+    },
+    {
+        "id": 191,
+        "text": "Msafiri, kafiri.",
+        "category": "M"
+    },
+    {
+        "id": 192,
+        "text": "Mshika mawili, moja humponyoka.",
+        "category": "M"
+    },
+    {
+        "id": 193,
+        "text": "Maskini haokoti, akiokota huambiwa ameiba.",
+        "category": "M"
+    },
+    {
+        "id": 194,
+        "text": "Mtegemea cha nduguye, hufa maskini",
+        "category": "M"
+    },
+    {
+        "id": 195,
+        "text": "Mwana wa kuku, hafunzwi kuchakura.",
+        "category": "M"
+    },
+    {
+        "id": 196,
+        "text": "Mwanzo wa ngoma, ni lele",
+        "category": "M"
+    },
+    {
+        "id": 197,
+        "text": "Mwenye shibe, hamjui mwenye njaa",
+        "category": "M"
+    },
+    {
+        "id": 198,
+        "text": "Ngoja ngoja, yaumiza matumbo",
+        "category": "N"
+    },
+    {
+        "id": 199,
+        "text": "Nazi mbovu, haramu ya nzima",
+        "category": "N"
+    },
+    {
+        "id": 200,
+        "text": "Ndugu mui, afadhali kuwa naye",
+        "category": "N"
+    },
+    {
+        "id": 201,
+        "text": "Nahodha wengi, chombo huenda mrama",
+        "category": "N"
+    },
+    {
+        "id": 202,
+        "text": "Ng’ombe wa masikini, hazai",
+        "category": "N"
+    },
+    {
+        "id": 203,
+        "text": "Njia ya mwongo, ni fupi",
+        "category": "N"
+    },
+    {
+        "id": 204,
+        "text": "Ndege mjanja, hunaswa na tundu bovu",
+        "category": "N"
+    },
+    {
+        "id": 205,
+        "text": "Ng’ombe, halemewi na nunduye.",
+        "category": "N"
+    },
+    {
+        "id": 206,
+        "text": "Nifae kwa mvua, nikufae kwa jua.",
+        "category": "N"
+    },
+    {
+        "id": 207,
+        "text": "Nyota njema, huonekana asubuhi.",
+        "category": "N"
+    },
+    {
+        "id": 208,
+        "text": "Nyumba ya udongo, haistahimili vishindo",
+        "category": "N"
+    },
+    {
+        "id": 209,
+        "text": "Ogopa, ni ngao pia",
+        "category": "O"
+    },
+    {
+        "id": 210,
+        "text": "Ondoa dari, uezeke paa",
+        "category": "O"
+    },
+    {
+        "id": 211,
+        "text": "Pabaya pako, si pema pa mwenzio",
+        "category": "P"
+    },
+    {
+        "id": 212,
+        "text": "Paka akiondoka, panya hutawala",
+        "category": "P"
+    },
+    {
+        "id": 213,
+        "text": "Pang’okapo jino, pana pengo",
+        "category": "P"
+    },
+    {
+        "id": 214,
+        "text": "Pema usijapo pema, ukipema si pema tena",
+        "category": "P"
+    },
+    {
+        "id": 215,
+        "text": "Penye kuku wengi, usimwage mtama",
+        "category": "P"
+    },
+    {
+        "id": 216,
+        "text": "Penye nia, pana njia",
+        "category": "P"
+    },
+    {
+        "id": 217,
+        "text": "Penye wazee, hapaharibiki neno",
+        "category": "P"
+    },
+    {
+        "id": 218,
+        "text": "Pilipili usiyoila, yakuwashia nini?",
+        "category": "P"
+    },
+    {
+        "id": 219,
+        "text": "Penye urembo, ndipo penye urimbo",
+        "category": "P"
+    },
+    {
+        "id": 220,
+        "text": "Pole pole, ndio mwendo",
+        "category": "P"
+    },
+    {
+        "id": 221,
+        "text": "Paka akiwa hakimu, panya hawezi kushinda kesi.",
+        "category": "P"
+    },
+    {
+        "id": 222,
+        "text": "Paka hawekewi, kitoweo kulinda",
+        "category": "P"
+    },
+    {
+        "id": 223,
+        "text": "Pwagu, hupata pwaguzi",
+        "category": "P"
+    },
+    {
+        "id": 224,
+        "text": "Radhi ni bora, kuliko mali",
+        "category": "R"
+    },
+    {
+        "id": 225,
+        "text": "Raha, haina karaha",
+        "category": "R"
+    },
+    {
+        "id": 226,
+        "text": "Safari ni, hatua",
+        "category": "S"
+    },
+    {
+        "id": 227,
+        "text": "Samaki mkunje, angali mbichi",
+        "category": "S"
+    },
+    {
+        "id": 228,
+        "text": "Samaki mmoja akioza, wote wameoza",
+        "category": "S"
+    },
+    {
+        "id": 229,
+        "text": "Sheria ni msumeno, hukata huku na huku",
+        "category": "S"
+    },
+    {
+        "id": 230,
+        "text": "Sikio, halilali njaa",
+        "category": "S"
+    },
+    {
+        "id": 231,
+        "text": "Sikio la kufa, halisikii dawa",
+        "category": "S"
+    },
+    {
+        "id": 232,
+        "text": "Siku njema, huonekana asubuhi",
+        "category": "S"
+    },
+    {
+        "id": 233,
+        "text": "Simba mwenda pole, ndiye mla nyama",
+        "category": "S"
+    },
+    {
+        "id": 234,
+        "text": "Siri ya mtungi, aijuaye kata",
+        "category": "S"
+    },
+    {
+        "id": 235,
+        "text": "Sisimizi, hawi ng’ombe",
+        "category": "S"
+    },
+    {
+        "id": 236,
+        "text": "Shibe mwana malevya, njaa mwana malegeza,",
+        "category": "S"
+    },
+    {
+        "id": 237,
+        "text": "Shoka lisilo na mpini, halichanji kuni.",
+        "category": "S"
+    },
+    {
+        "id": 238,
+        "text": "Shukrani ya punda, ni mateke",
+        "category": "S"
+    },
+    {
+        "id": 239,
+        "text": "Siku za mwizi, ni arobaini.",
+        "category": "S"
+    },
+    {
+        "id": 240,
+        "text": "Simba hamli, mwanawe.",
+        "category": "S"
+    },
+    {
+        "id": 241,
+        "text": "Sipandi punda, asiye na matandiko.",
+        "category": "S"
+    },
+    {
+        "id": 242,
+        "text": "Subira, yavuta heri",
+        "category": "S"
+    },
+    {
+        "id": 243,
+        "text": "Tahadhari, kabla ya shari",
+        "category": "T"
+    },
+    {
+        "id": 244,
+        "text": "Tajiri na mali yake, maskini na mwanawe",
+        "category": "T"
+    },
+    {
+        "id": 245,
+        "text": "Tamaa mbele, mauti nyuma",
+        "category": "T"
+    },
+    {
+        "id": 246,
+        "text": "Teke la kuku, halimwumizi mwanawe",
+        "category": "T"
+    },
+    {
+        "id": 247,
+        "text": "Toba ni, vitendo",
+        "category": "T"
+    },
+    {
+        "id": 248,
+        "text": "Tunda jema, halikawii mtini",
+        "category": "T"
+    },
+    {
+        "id": 249,
+        "text": "Uchungu wa mwana, aujuaye mzazi",
+        "category": "U"
+    },
+    {
+        "id": 250,
+        "text": "Udugu wa nazi, hukutana chunguni",
+        "category": "U"
+    },
+    {
+        "id": 251,
+        "text": "Ukilima “pantosha”, utavuna “pankwisha”",
+        "category": "U"
+    },
+    {
+        "id": 252,
+        "text": "Ukiona vyaelea, vimeundwa",
+        "category": "U"
+    },
+    {
+        "id": 253,
+        "text": "Ukistaajabu ya Musa, utaona ya firauni",
+        "category": "U"
+    },
+    {
+        "id": 254,
+        "text": "Ukitaka kumla nguruwe, chagua aliye nona",
+        "category": "U"
+    },
+    {
+        "id": 255,
+        "text": "Ukubwa ni, jalala",
+        "category": "U"
+    },
+    {
+        "id": 256,
+        "text": "Ulimi, hauna mfupa",
+        "category": "U"
+    },
+    {
+        "id": 257,
+        "text": "Usitupe jongoo, na mti wake",
+        "category": "U"
+    },
+    {
+        "id": 258,
+        "text": "Ushikwapo, shikamana",
+        "category": "U"
+    },
+    {
+        "id": 259,
+        "text": "Usiache mbachao, kwa msala upitao",
+        "category": "U"
+    },
+    {
+        "id": 260,
+        "text": "Usipoziba ufa, utajenga ukuta",
+        "category": "U"
+    },
+    {
+        "id": 261,
+        "text": "Usimwamshe aliyelala, ukimwamsha utalala wewe",
+        "category": "U"
+    },
+    {
+        "id": 262,
+        "text": "Usitukane wakunga, na uzazi ungalipo",
+        "category": "U"
+    },
+    {
+        "id": 263,
+        "text": "Uzuri wa mkakasi, ndani kipande cha mti",
+        "category": "U"
+    },
+    {
+        "id": 264,
+        "text": "Ukitaka kuruka, Agana na nyonga",
+        "category": "U"
+    },
+    {
+        "id": 265,
+        "text": "Ukienda kwa mwenye chongo, fumba lako jicho.",
+        "category": "U"
+    },
+    {
+        "id": 266,
+        "text": "Ukipenda boga, penda na ua lake.",
+        "category": "U"
+    },
+    {
+        "id": 267,
+        "text": "Ukitaka kuwa mvuvi, sharti ujue kuogelea.",
+        "category": "U"
+    },
+    {
+        "id": 268,
+        "text": "Ukitaka uzuri, sharti udhurike.",
+        "category": "U"
+    },
+    {
+        "id": 269,
+        "text": "Umekula ng’ombe mzima, washindwa mkia?",
+        "category": "U"
+    },
+    {
+        "id": 270,
+        "text": "Undugu ni kufaana, sio kufanana.",
+        "category": "U"
+    },
+    {
+        "id": 271,
+        "text": "Uongo wa mwenye nyumba si ukweli wa mpita njia.",
+        "category": "U"
+    },
+    {
+        "id": 272,
+        "text": "Upele humwota, asiye na kucha.",
+        "category": "U"
+    },
+    {
+        "id": 273,
+        "text": "Usiandikie mate, na wino ungalipo.",
+        "category": "U"
+    },
+    {
+        "id": 274,
+        "text": "Usigombane na mkwezi, nazi imeliwa na mwezi",
+        "category": "U"
+    },
+    {
+        "id": 275,
+        "text": "Ukila na kipofu usimguse mkono.",
+        "category": "U"
+    },
+    {
+        "id": 276,
+        "text": "Usisafirie nyota ya mwenzio",
+        "category": "U"
+    },
+    {
+        "id": 277,
+        "text": "Vita vya panzi, furaha ya kunguru",
+        "category": "V"
+    },
+    {
+        "id": 278,
+        "text": "Vyanda vya miguu, havivishwi pete",
+        "category": "V"
+    },
+    {
+        "id": 279,
+        "text": "Vita vya panzi furaha ya kunguru.",
+        "category": "V"
+    },
+    {
+        "id": 280,
+        "text": "Vita vya panga, haviamuliwi kwa fimbo",
+        "category": "V"
+    },
+    {
+        "id": 281,
+        "text": "Wagombanao, ndio wapatanao",
+        "category": "W"
+    },
+    {
+        "id": 282,
+        "text": "Walio hai, hawaachi kuonana",
+        "category": "W"
+    },
+    {
+        "id": 283,
+        "text": "Wastara, hasumbuki",
+        "category": "W"
+    },
+    {
+        "id": 284,
+        "text": "Wema, hauozi",
+        "category": "W"
+    },
+    {
+        "id": 285,
+        "text": "Wengi, wape",
+        "category": "W"
+    },
+    {
+        "id": 286,
+        "text": "Wingi, si hoja",
+        "category": "W"
+    },
+    {
+        "id": 287,
+        "text": "Wino wa Mungu, haufutiki",
+        "category": "W"
+    },
+    {
+        "id": 288,
+        "text": "waujua huu, huu huujui.",
+        "category": "W"
+    },
+    {
+        "id": 289,
+        "text": "Yaliyo pita si ndwele, tugange yajayo",
+        "category": "Y"
+    },
+    {
+        "id": 290,
+        "text": "Yote yang’aayo, si dhahabu",
+        "category": "Y"
+    },
+    {
+        "id": 291,
+        "text": "Zimwi likujualo, halikuli likakwisha",
+        "category": "Z"
+    },
+    {
+        "id": 292,
+        "text": "Zito, hufuata jepesi",
+        "category": "Z"
+    }
+]

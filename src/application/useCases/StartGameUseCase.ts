@@ -2,10 +2,10 @@
 // Orchestrates the initialization of a new game
 
 import { IQuestionRepository } from '@domain/repositories/IQuestionRepository';
-import { ShuffledQuestion } from '@domain/entities/Question';
+import { ShuffledQuestion, QuestionType } from '@domain/entities/Question';
 
 export class StartGameUseCase {
-  constructor(private questionRepository: IQuestionRepository) {}
+  constructor(private questionRepository: IQuestionRepository) { }
 
   private shuffleArray<T>(array: readonly T[]): T[] {
     const shuffled = [...array];
@@ -16,9 +16,9 @@ export class StartGameUseCase {
     return shuffled;
   }
 
-  async execute(questionCount: number = 20): Promise<ShuffledQuestion[]> {
-    const questions = await this.questionRepository.getRandomQuestions(questionCount);
-    
+  async execute(questionCount: number = 20, type?: QuestionType): Promise<ShuffledQuestion[]> {
+    const questions = await this.questionRepository.getRandomQuestions(questionCount, type);
+
     // Shuffle options for each question
     return questions.map(question => ({
       ...question,

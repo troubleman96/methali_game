@@ -1,8 +1,8 @@
 // Presentation Layer - Start Screen Component
-// Includes category selection for a more personalized game experience
+// Includes category selection with consistent card layout and interactive feedback
 
 import { useState } from 'react';
-import { Trophy, ChevronRight, BookOpen, MessageCircle, HelpCircle } from 'lucide-react';
+import { Trophy, ChevronRight, BookOpen, MessageCircle, HelpCircle, Shuffle } from 'lucide-react';
 import { LeaderboardEntry } from '@domain/entities/Score';
 import { QuestionType } from '@domain/entities/Question';
 
@@ -36,11 +36,18 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
       icon: MessageCircle,
       color: 'bg-blue-100 text-blue-700 border-blue-200'
     },
+    {
+      id: undefined,
+      name: 'Mchanganyiko',
+      desc: 'Zote kwa pamoja',
+      icon: Shuffle,
+      color: 'bg-purple-100 text-purple-700 border-purple-200'
+    },
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-emerald-50 to-stone-100 flex items-center justify-center p-3 sm:p-4 md:p-6 font-sans">
-      <div className="max-w-md w-full bg-white rounded-2xl sm:rounded-3xl shadow-2xl p-6 sm:p-8 border-t-8 border-emerald-600 transition-all duration-500">
+    <div className="min-h-screen bg-gradient-to-br from-emerald-50 to-stone-100 flex items-center justify-center p-3 sm:p-4 md:p-6 font-sans text-center">
+      <div className="max-w-md w-full bg-white rounded-3xl shadow-2xl p-6 sm:p-8 border-t-8 border-emerald-600 transition-all duration-500">
 
         <div className="text-center mb-6 sm:mb-8">
           <div className="inline-block mb-3 sm:mb-4">
@@ -50,57 +57,66 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
               className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 animate-bounce-slow"
             />
           </div>
+          {!showCategories && (
+            <>
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-2 tracking-tight">
+                Mizungu & Methali
+              </h1>
+              <p className="text-emerald-700 italic text-base sm:text-lg font-medium font-serif px-2">
+                "Busara ni akiba ya mzee."
+              </p>
+            </>
+          )}
         </div>
 
         {!showCategories ? (
           <button
             onClick={() => setShowCategories(true)}
-            className="group w-full py-4 sm:py-5 bg-emerald-700 hover:bg-emerald-800 active:bg-emerald-900 text-white rounded-xl sm:rounded-2xl font-bold text-lg sm:text-xl transition-all shadow-lg flex items-center justify-center gap-2 mb-6 sm:mb-8 touch-manipulation"
+            className="group w-full py-5 bg-emerald-700 hover:bg-emerald-800 active:bg-emerald-900 text-white rounded-2xl font-bold text-xl transition-all shadow-lg flex items-center justify-center gap-2 mb-6 touch-manipulation"
           >
             Anza Mchezo
-            <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6 group-hover:translate-x-1 transition-transform" />
+            <ChevronRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
           </button>
         ) : (
-          <div className="space-y-3 mb-6 sm:mb-8 animate-fade-in">
-            <h2 className="text-lg font-bold text-gray-800 mb-4 text-center">Chagua Aina ya Mchezo:</h2>
-            {categories.map((cat) => (
+          <div className="space-y-3 mb-6 sm:mb-8 animate-fade-in text-left">
+            <h2 className="text-xl font-black text-gray-800 mb-5 text-center">Chagua Aina ya Mchezo:</h2>
+            {categories.map((cat, idx) => (
               <button
-                key={cat.id}
+                key={idx}
                 onClick={() => onStart(cat.id)}
-                className={`w-full flex items-center gap-4 p-4 rounded-xl border-2 transition-all hover:scale-[1.02] active:scale-[0.98] ${cat.color}`}
+                className={`w-full flex items-center gap-4 p-4 rounded-2xl border-2 transition-all hover:scale-[1.02] active:scale-[0.98] ${cat.color} group relative overflow-hidden`}
               >
-                <div className="p-2 bg-white/50 rounded-lg">
-                  <cat.icon size={24} />
+                <div className="p-3 bg-white/60 rounded-xl shadow-sm group-hover:rotate-6 transition-transform">
+                  <cat.icon size={28} />
                 </div>
-                <div className="text-left">
-                  <div className="font-bold text-lg">{cat.name}</div>
-                  <div className="text-xs opacity-80 font-medium">{cat.desc}</div>
+                <div>
+                  <div className="font-extrabold text-lg leading-tight">{cat.name}</div>
+                  <div className="text-[11px] opacity-80 font-bold uppercase tracking-wider">{cat.desc}</div>
                 </div>
+                <ChevronRight className="ml-auto opacity-0 group-hover:opacity-100 transition-opacity" />
               </button>
             ))}
-            <button
-              onClick={() => onStart()}
-              className="w-full py-3 text-gray-500 font-bold hover:text-emerald-700 transition-colors text-sm"
-            >
-              Mchanganyiko (Zote)
-            </button>
           </div>
         )}
 
         {leaderboard.length > 0 && (
-          <div className="mt-4 border-t pt-4 sm:pt-6">
-            <h3 className="text-emerald-800 font-bold uppercase text-xs tracking-widest mb-3 sm:mb-4 flex items-center gap-2">
+          <div className="mt-4 border-t-2 border-stone-50 pt-6">
+            <h3 className="text-emerald-800 font-black uppercase text-[10px] tracking-[0.2em] mb-4 flex items-center justify-center gap-2">
               <Trophy size={14} /> Mabingwa
             </h3>
-            <div className="space-y-2 sm:space-y-3 max-h-64 overflow-y-auto custom-scrollbar">
-              {leaderboard.map((entry: LeaderboardEntry) => (
+            <div className="space-y-2 max-h-60 overflow-y-auto custom-scrollbar px-1">
+              {leaderboard.map((entry) => (
                 <div
                   key={entry.rank}
-                  className="flex justify-between items-center p-2.5 sm:p-3 bg-emerald-50 rounded-lg sm:rounded-xl border border-emerald-100"
+                  className="flex justify-between items-center p-3 bg-stone-50 rounded-xl border border-stone-100/50"
                 >
-                  <span className="text-emerald-800 font-black text-sm sm:text-base">#{entry.rank}</span>
-                  <span className="text-gray-800 font-bold text-sm sm:text-base">{entry.points} pts</span>
-                  <span className="text-[9px] sm:text-[10px] text-emerald-600 font-bold uppercase">
+                  <div className="flex items-center gap-3">
+                    <span className="w-6 h-6 flex items-center justify-center bg-white rounded-full text-[10px] font-black shadow-sm text-emerald-800">
+                      {entry.rank}
+                    </span>
+                    <span className="text-gray-800 font-bold text-sm">{entry.points} pts</span>
+                  </div>
+                  <span className="text-[9px] text-stone-400 font-bold uppercase">
                     {entry.date}
                   </span>
                 </div>

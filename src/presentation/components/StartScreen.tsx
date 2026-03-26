@@ -49,20 +49,29 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
     <div className="min-h-screen bg-gradient-to-br from-emerald-50 to-stone-100 flex items-center justify-center p-3 sm:p-4 md:p-6 font-sans text-center">
       <div className="max-w-md w-full bg-white rounded-3xl shadow-2xl p-6 sm:p-8 border-t-8 border-emerald-600 transition-all duration-500">
 
-        <div className="text-center mb-6 sm:mb-8">
+        <div className={`text-center ${showCategories ? 'mb-4' : 'mb-6 sm:mb-8'}`}>
           <div className="inline-block mb-2">
             <img
-              src="/vitendawili_na_methali_favicon/favicon-96x96.png"
+              src="/vitendawilinamethaligame-favicon/android-chrome-192x192.png"
               alt="Methali Game Logo"
               className={`w-20 h-20 sm:w-24 sm:h-24 animate-bounce-slow ${showCategories ? 'scale-75 mb-0' : 'mb-2'}`}
             />
           </div>
-          <h1 className={`${showCategories ? 'text-xl sm:text-2xl' : 'text-3xl sm:text-4xl md:text-5xl'} font-bold text-gray-900 mb-1 tracking-tight transition-all duration-300`}>
-            Mizungu & Methali
-          </h1>
-          <p className={`text-emerald-700 italic ${showCategories ? 'text-xs sm:text-sm' : 'text-base sm:text-lg'} font-medium font-serif px-2 transition-all duration-300`}>
-            "Busara ni akiba ya mzee."
-          </p>
+          {showCategories && (
+            <h2 className="text-xl font-black text-gray-800 mb-2 animate-fade-in">
+              Chagua Aina ya Mchezo:
+            </h2>
+          )}
+          {!showCategories && (
+            <>
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-1 tracking-tight transition-all duration-300">
+                Mizungu & Methali
+              </h1>
+              <p className="text-emerald-700 italic text-base sm:text-lg font-medium font-serif px-2 transition-all duration-300">
+                "Busara ni akiba ya mzee."
+              </p>
+            </>
+          )}
         </div>
 
         {!showCategories ? (
@@ -75,7 +84,6 @@ export const StartScreen = ({ onStart, leaderboard }: StartScreenProps) => {
           </button>
         ) : (
           <div className="space-y-3 mb-6 sm:mb-8 animate-fade-in text-left">
-            <h2 className="text-xl font-black text-gray-800 mb-5 text-center">Chagua Aina ya Mchezo:</h2>
             {categories.map((cat, idx) => (
               <button
                 key={idx}

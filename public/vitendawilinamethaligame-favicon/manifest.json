@@ -1,0 +1,31 @@
+{
+  "name": "Mizungu & Methali - Swahili Riddles Game",
+  "short_name": "Methali Game",
+  "description": "Test your knowledge of Swahili riddles and proverbs. Learn wisdom through play!",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/vitendawilinamethaligame-favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vitendawilinamethaligame-favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vitendawilinamethaligame-favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#047857",
+  "background_color": "#f5f5f4",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education", "games", "entertainment"]
+}
